@@ -19,10 +19,11 @@ def retrieval
                   "porcelain vases" => 2, 
                   "oil paintings" => 3
                  }
-  shipping_manifest["oil paintints"]
-  # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 
+  # Look up the value of the "oil paintings" key in the shipping_manifest hash below
 end
+
+shipping_manifest["oil paintints"]
 
 def adding
   shipping_manifest = {
